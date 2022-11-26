@@ -1,0 +1,198 @@
+@media(max-width:1390px) {
+    .build-the-community .conteudo-inicio h1 {
+        font-size: 33px;
+    }
+
+    .img-build {
+        width: 700px;
+    }
+
+    .item .icon h1 {
+        font-size: 60px;
+    }
+
+    .titulo-conteudo {
+        font-size: 36px;
+    }
+
+    .grow-together-and-user p {
+        font-size: 15px;
+    }
+
+    .flowing-conversations p {
+        width: 90%;
+        font-size: 15px;
+    }
+
+    .start {
+        width: 100%;
+    }
+
+    .start a {
+        font-size: 16px;
+        padding: 15px 65px;
+    }
+    .redes-sociais .logo{
+       width: 200px;
+     }
+    .mail-subscribe{
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+     }
+     #subscribe{
+        margin-left: 66%;
+        margin-top: -20px;
+     }
+    .contatos{
+        margin-left: 15%;
+        width: 70%;
+    }
+    .subscribe{
+        margin-left: 15%;
+        width: 70%;
+    }
+}
+
+@media(max-width:720px) {
+    .logo-header {
+        width: 100px;
+    }
+
+    header {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 20px 0 20px;
+        gap: 80px;
+    }
+
+    header a {
+        font-size: 12px;
+        padding: 2px 10px;
+    }
+
+    .build-the-community {
+        width: 300px;
+        padding: 4%;
+        margin: 0 auto;
+    }
+
+    .build-the-community .conteudo-inicio {
+        width: 240px;
+    }
+
+    .build-the-community .conteudo-inicio h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .build-the-community .conteudo-inicio p {
+        width: 303px;
+        /* height: 200px; */
+        font-size: 12px;
+        padding: 27px 17px 20px 17px;
+    }
+    .build-the-community a{
+        font-size: 12px;
+        padding: 9px 15px;
+    }
+    .img-build {
+        width: 220px;
+    }
+    .build-the-community .comunidade {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 70px;
+    }
+    .item .icon h1 {
+        font-size: 40px;
+    }
+    .build-the-community .comunidade p{
+        font-size: 13px;
+    }
+    .container-conteudo{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+    .img-conteudo{
+        width: 100%;
+    }
+    .titulo-conteudo{
+        font-size: 20px;
+    }
+    .text-responsivo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+    .grow-together-and-user p{
+        margin: 15px 12px 15px 12px;
+        text-align: center;
+        font-size: 12px;
+    }
+    .flowing-conversations{
+       display: flex;
+       flex-direction: column;
+       width: 100%;
+       gap: 60px;
+       text-align: center;
+       font-size: 20px;
+
+    }
+    .flowing-conversations p{
+        text-align: center;
+        font-size: 12px;
+        margin: 15px 12px 15px 12px;
+        margin: 0 1px;
+    }
+    .start{
+        width: 280px;
+        padding: 150px 0 150px 0;
+    }
+    .start h2{
+        width: 260px;
+        text-align: center;
+    }
+    .start a{
+        text-align: center;
+        font-size: 12px;
+        width: 200px;
+        padding: 9px 15px;
+    }
+    .redes-sociais{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .redes-sociais p{
+        font-size: 12px;
+    }
+    .contatos{
+        margin-left: 2%;
+        width: 260px;
+    }
+    .subscribe{
+        margin-left: 2%;
+        width: 260px;
+    }
+    #mail{
+        padding: 12px 90px 12px 10px;
+        border-radius: 7px;
+    }
+    #subscribe{
+        padding: 12px 20px 12px 20px;
+        margin-left: 66%;
+        margin-top: -20px;
+        margin-bottom: 40px;
+     }
+     .social i{
+        margin-bottom: 40px;
+        font-size: 30px;
+    }
+}
